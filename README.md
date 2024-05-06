@@ -60,7 +60,7 @@
             </tr>
             <tr>
                 <td style="vertical-align: top; padding-right: 10px; border: none;">
-                    <img src="https://www.enguard.com/wp-content/uploads/2023/06/Domain-Security-Blog-image-8.png" alt="Fun Fact Image" style="width: 100px; height: 100px; object-fit: cover; border-radius: 8px;">
+                    <img src="https://i.pinimg.com/originals/8c/c1/21/8cc121b0eef830cb7cd6b893256df531.jpg" alt="Fun Fact Image" style="width: 100px; height: 100px; object-fit: cover; border-radius: 8px;">
                 </td>
                 <td style="vertical-align: top; border: none;">
                     <strong>5.</strong> The first-ever domain name registered was "symbolics.com" on March 15, 1985.
