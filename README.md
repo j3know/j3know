@@ -1,4 +1,6 @@
-[<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="1000" height="450">](https://github.com/j3know)
+<a href="https://github.com/j3know">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="1000" height="450">
+</a>
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=j3know.j3know&left_color=blue&right_color=grey&left_text=Number%20of%20Visitors" />
@@ -28,7 +30,7 @@
 </div>
 
  <h3 align="left">Connect with me:</h3>
-<div align="left"> 
+<!-- <div align="left"> 
   <a href="mailto:Anthonymanagase17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -38,7 +40,17 @@
  <a href="https://www.facebook.com/Gi3N0u/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-</div>
+</div> -->
+<a href="mailto:Anthonymanagase17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+</a>
+<a href="https://www.linkedin.com/in/geno-anthony-tombiga-378b162a9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+<a href="https://www.facebook.com/Gi3N0u/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
+</a>
+
 
  <hr/>
  
