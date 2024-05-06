@@ -1,4 +1,4 @@
-[<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="1000" height="500">](https://github.com/j3know)
+[<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="1000" height="450">](https://github.com/j3know)
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=j3know.j3know&left_color=blue&right_color=grey&left_text=Number%20of%20Visitors" />
