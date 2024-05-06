@@ -1,4 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=j3know.j3know&left_color=red&right_color=green&left_text=Number%20of%20Visitors" />
+[<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="1000" height="500">](https://github.com/j3know)
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=j3know.j3know&left_color=blue&right_color=grey&left_text=Number%20of%20Visitors" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Gie+Nou!;+Welcome+to+my+GitHub;+Junior+Software+Engineer+in+Cebu;+Passionate+about+coding+and+learning;+Let's+code+together+and+make+great+things+happen!;" />
@@ -24,8 +27,8 @@
 
 </div>
 
- 
-<div align="center"> 
+ <h3 align="left">Connect with me:</h3>
+<div align="left"> 
   <a href="mailto:Anthonymanagase17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
