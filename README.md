@@ -20,12 +20,30 @@
 
 
   
-### ⚡ Fun Facts: <br>
-1. The first computer virus was created in 1983 and was called the "Elk Cloner". It infected Apple II computers via floppy disks.<br>
-2. The world's first webcam was created at the University of Cambridge to monitor a coffee pot. It allowed people to see if there was coffee available before making the trip to the pot.<br>
-3. The average computer user blinks 7 times a minute, while the average person blinks 20 times a minute. This is why staring at a computer screen for long periods can cause dry eyes.<br>
-4. The term "bug" to describe a glitch in a computer system originated in 1947 when engineers found a moth stuck in a relay of the Harvard Mark II computer.<br>
-5. The first-ever domain name registered was "symbolics.com" on March 15, 1985.
+<h3 style="text-align: center;">⚡ Fun Facts:</h3>
+
+<div style="text-align: left; margin-left: 20px;">
+    <p>
+        <img src="https://www.digit.fyi/wp-content/uploads/2022/01/Elk-Cloner.jpg" alt="Fun Fact Image" style="float: left; margin-right: 10px; width: 100px; height: 100px;">
+        <strong>1.</strong> The first computer virus was created in 1983 and was called the "Elk Cloner". It infected Apple II computers via floppy disks.
+    </p>
+    <p>
+        <img src="https://global.discourse-cdn.com/boingboing/original/4X/0/a/4/0a4db7a3b332c893a25b397a13f8a2c6798ebc56.jpeg" alt="Fun Fact Image" style="float: left; margin-right: 10px; width: 100px; height: 100px;">
+        <strong>2.</strong> The world's first webcam was created at the University of Cambridge to monitor a coffee pot. It allowed people to see if there was coffee available before making the trip to the pot.
+    </p>
+    <p>
+        <img src="https://i.pinimg.com/originals/a5/89/a8/a589a899c6c2b77d0f8bf3ff90402281.png" alt="Fun Fact Image" style="float: left; margin-right: 10px; width: 100px; height: 100px;">
+        <strong>3.</strong> The average computer user blinks 7 times a minute, while the average person blinks 20 times a minute. This is why staring at a computer screen for long periods can cause dry eyes.
+    </p>
+    <p>
+        <img src="https://th.bing.com/th/id/R.04fa0daad0fd2a99df48b01ff7295e8f?rik=37YAF1EIkQ3QmA&riu=http%3a%2f%2fstatic.businessinsider.com%2fimage%2f5593f5cc6bb3f7ac51d8d3cf%2fimage.jpg&ehk=zNJDUh%2fwxq%2fEC%2b7WM9eDnmyGH%2b8M1ZdRE0ZyP40K%2fPc%3d&risl=&pid=ImgRaw&r=0" alt="Fun Fact Image" style="float: left; margin-right: 10px; width: 100px; height: 100px;">
+        <strong>4.</strong> The term "bug" to describe a glitch in a computer system originated in 1947 when engineers found a moth stuck in a relay of the Harvard Mark II computer.
+    </p>
+    <p>
+        <img src="https://www.enguard.com/wp-content/uploads/2023/06/Domain-Security-Blog-image-8.png" alt="Fun Fact Image" style="float: left; margin-right: 10px; width: 100px; height: 100px;">
+        <strong>5.</strong> The first-ever domain name registered was "symbolics.com" on March 15, 1985.
+    </p>
+</div>
 
 </div>
 
