@@ -25,28 +25,51 @@
 
 <div align="center">
     <div style="margin: 0 auto; max-width: 800px;">
-        <p align="left">
-            <img src="https://www.digit.fyi/wp-content/uploads/2022/01/Elk-Cloner.jpg" alt="Fun Fact Image" style="float: left; margin-right: 10px; width: 100px; height: 100px;">
-            <strong>1.</strong> The first computer virus was created in 1983 and was called the "Elk Cloner". It infected Apple II computers via floppy disks.
-        </p>
-        <p align="left">
-            <img src="https://global.discourse-cdn.com/boingboing/original/4X/0/a/4/0a4db7a3b332c893a25b397a13f8a2c6798ebc56.jpeg" alt="Fun Fact Image" style="float: left; margin-right: 10px; width: 100px; height: 100px;">
-            <strong>2.</strong> The world's first webcam was created at the University of Cambridge to monitor a coffee pot. It allowed people to see if there was coffee available before making the trip to the pot.
-        </p>
-        <p align="left">
-            <img src="https://i.pinimg.com/originals/a5/89/a8/a589a899c6c2b77d0f8bf3ff90402281.png" alt="Fun Fact Image" style="float: left; margin-right: 10px; width: 100px; height: 100px;">
-            <strong>3.</strong> The average computer user blinks 7 times a minute, while the average person blinks 20 times a minute. This is why staring at a computer screen for long periods can cause dry eyes.
-        </p>
-        <p align="left">
-            <img src="https://th.bing.com/th/id/R.04fa0daad0fd2a99df48b01ff7295e8f?rik=37YAF1EIkQ3QmA&riu=http%3a%2f%2fstatic.businessinsider.com%2fimage%2f5593f5cc6bb3f7ac51d8d3cf%2fimage.jpg&ehk=zNJDUh%2fwxq%2fEC%2b7WM9eDnmyGH%2b8M1ZdRE0ZyP40K%2fPc%3d&risl=&pid=ImgRaw&r=0" alt="Fun Fact Image" style="float: left; margin-right: 10px; width: 100px; height: 100px;">
-            <strong>4.</strong> The term "bug" to describe a glitch in a computer system originated in 1947 when engineers found a moth stuck in a relay of the Harvard Mark II computer.
-        </p>
-        <p align="left">
-            <img src="https://www.enguard.com/wp-content/uploads/2023/06/Domain-Security-Blog-image-8.png" alt="Fun Fact Image" style="float: left; margin-right: 10px; width: 100px; height: 100px;">
-            <strong>5.</strong> The first-ever domain name registered was "symbolics.com" on March 15, 1985.
-        </p>
+        <table style="width:100%;">
+            <tr>
+                <td style="vertical-align: top;">
+                    <img src="https://www.digit.fyi/wp-content/uploads/2022/01/Elk-Cloner.jpg" alt="Fun Fact Image" style="width: 100px; height: 100px;">
+                </td>
+                <td style="vertical-align: top;">
+                    <strong>1.</strong> The first computer virus was created in 1983 and was called the "Elk Cloner". It infected Apple II computers via floppy disks.
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top;">
+                    <img src="https://global.discourse-cdn.com/boingboing/original/4X/0/a/4/0a4db7a3b332c893a25b397a13f8a2c6798ebc56.jpeg" alt="Fun Fact Image" style="width: 100px; height: 100px;">
+                </td>
+                <td style="vertical-align: top;">
+                    <strong>2.</strong> The world's first webcam was created at the University of Cambridge to monitor a coffee pot. It allowed people to see if there was coffee available before making the trip to the pot.
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top;">
+                    <img src="https://i.pinimg.com/originals/a5/89/a8/a589a899c6c2b77d0f8bf3ff90402281.png" alt="Fun Fact Image" style="width: 100px; height: 100px;">
+                </td>
+                <td style="vertical-align: top;">
+                    <strong>3.</strong> The average computer user blinks 7 times a minute, while the average person blinks 20 times a minute. This is why staring at a computer screen for long periods can cause dry eyes.
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top;">
+                    <img src="https://th.bing.com/th/id/R.04fa0daad0fd2a99df48b01ff7295e8f?rik=37YAF1EIkQ3QmA&riu=http%3a%2f%2fstatic.businessinsider.com%2fimage%2f5593f5cc6bb3f7ac51d8d3cf%2fimage.jpg&ehk=zNJDUh%2fwxq%2fEC%2b7WM9eDnmyGH%2b8M1ZdRE0ZyP40K%2fPc%3d&risl=&pid=ImgRaw&r=0" alt="Fun Fact Image" style="width: 100px; height: 100px;">
+                </td>
+                <td style="vertical-align: top;">
+                    <strong>4.</strong> The term "bug" to describe a glitch in a computer system originated in 1947 when engineers found a moth stuck in a relay of the Harvard Mark II computer.
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top;">
+                    <img src="https://www.enguard.com/wp-content/uploads/2023/06/Domain-Security-Blog-image-8.png" alt="Fun Fact Image" style="width: 100px; height: 100px;">
+                </td>
+                <td style="vertical-align: top;">
+                    <strong>5.</strong> The first-ever domain name registered was "symbolics.com" on March 15, 1985.
+                </td>
+            </tr>
+        </table>
     </div>
 </div>
+
 
 <h3 align="center">Connect with me:</h3>
 
@@ -67,9 +90,34 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,visualstudio,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,ssms" /><br>
+    <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" /></a>
+    <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+    <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+    <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+    <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+    <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+    <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+    <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" /></a>
+    <br>
+    <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+    <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" /></a>
+    <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
+    <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+    <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+    <a href="https://www.w3schools.com/cpp/"><img src="https://skillicons.dev/icons?i=c" /></a>
+    <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
+    <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+    <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+    <a href="https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms"><img src="https://skillicons.dev/icons?i=ssms" /></a>
 </div>
+
+
+
 
 <br/>
 
